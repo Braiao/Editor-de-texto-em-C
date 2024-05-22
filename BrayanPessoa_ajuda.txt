@@ -1,0 +1,38 @@
+ _______________________________________________________________________
+|                              INFORMAÇÕES                              |
+|=======================================================================|
+|									|
+| F2     	-> SALVAR ARQUIVO                                       |
+|									|
+| F10    	-> LER INFORMAÇÕES DE UM ARQUIVO E EXIBIR		|
+|									|
+| F12    	-> EXIBIR INFORMAÇÕES DO DESENVOLVEDOR			|
+|									|
+| ESC    	-> VOLTAR PARA A TELA ANTERIOR OU FECHAR O PROGRAMA	|
+|									|
+| SETAS  	-> NAVEGAR COM O CURSOR PELO TEXTO			|
+|									|
+| INSERT 	-> TROCAR DO MODO DE ESCRITA PARA MODO DE SOBREESCRITA	|
+|  									|
+| PAGE UP 	-> VOLTA Á PÁGINA ANTERIOR				|
+|  									|
+| PAGE DOWN 	-> DESCE PARA A PRÓXIMA PÁGINA				|
+|									|
+| HOME 		-> MOVE O CURSOR PARA O INÍCIO DA LINHA			|
+|									|
+| END 		-> MOVE O CURSOR PARA O FIM DA LINHA			|
+|									|
+| DELETE 	-> APAGA O CARACTERE NA POSIÇÃO DO CURSOR		|
+|									|
+| BACKSPACE 	-> APAGA O CARACTERE NA POSIÇÃO ANTERIOR AO CURSOR	|
+|_______________________________________________________________________|
+
+	
+
+	
+
+	
+
+
+
+
